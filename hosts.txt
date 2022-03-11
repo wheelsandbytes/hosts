@@ -1,14 +1,14 @@
-127.0.0.1 metrics.apple.com
-127.0.0.1 advertising.apple.com
-127.0.0.1 banners.itunes.apple.com
-127.0.0.1 ca.iadsdk.apple.com
-127.0.0.1 cf.iadsdk.apple.com
-127.0.0.1 cs.iadsdk.apple.com
-127.0.0.1 iadmoo.apple.com
-127.0.0.1 iadsdk.apple.com
-127.0.0.1 su.iadsdk.apple.com
-127.0.0.1 tr.iadsdk.apple.com
-127.0.0.1 ut.iadsdk.apple.com
-127.0.0.1 securemetrics.apple.com
-127.0.0.1 iadcontent.apple.com
-127.0.0.1 news.iadsdk.apple.com
+metrics.apple.com
+advertising.apple.com
+banners.itunes.apple.com
+ca.iadsdk.apple.com
+cf.iadsdk.apple.com
+cs.iadsdk.apple.com
+iadmoo.apple.com
+iadsdk.apple.com
+su.iadsdk.apple.com
+tr.iadsdk.apple.com
+ut.iadsdk.apple.com
+securemetrics.apple.com
+iadcontent.apple.com
+news.iadsdk.apple.com
